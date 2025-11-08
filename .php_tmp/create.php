@@ -1,3 +1,5 @@
 <?php
 
-setcookie("username", "ayomide", time() + 3600);
+//syntax
+// setcookie()
+setcookie("username", "Ayomide", time() + 3600);
